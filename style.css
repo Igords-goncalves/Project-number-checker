@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: rgb(8, 70, 70);
+    color: white;
+    text-align: center;
+    font-size: 18pt;
+    margin-top: 150px;
+}
+section {
+    width: 500px;
+    height: 300px;
+    background: white;
+    color: black;
+    text-align: left;
+    margin: auto;
+    padding: 50px;
+}
+.txtlist {
+    width: 180px;
+    margin-top: 15px;
+}
